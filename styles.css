@@ -1,3 +1,9 @@
+body {
+  background: url("image/math.jpg");
+  background-repeat: no-repeat;
+  background-size:cover
+}
+
 input {
   width:150px;
   height:100px;
@@ -11,12 +17,12 @@ input {
 
 #myform {
   margin-left: 225px;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 h1 {
   text-align: center;
   font-size: 80px;
   margin-right: 150px;
-  margin-top:20px;
+  margin-top:50px;
 }
